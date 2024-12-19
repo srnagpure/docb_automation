@@ -102,7 +102,6 @@ public class WordDocumentParser {
                 System.out.println("Header Paragraph Text: " + headerParagraph.getText());
             }
         }
-
         
         System.out.println("Document Parsing Completed.");
     }
